@@ -1,0 +1,46 @@
+* a58ae74 (origin/master, master) add title
+* db317a2 small changes
+* 4d9beef JR-107: Create the about section
+| *   ecaf547 (HEAD -> main, origin/main) Merge pull request #3 from AliciaQu/feature/JR-106-create-home-page
+| |\  
+| |/  
+|/|   
+* | d73c1bf (origin/feature/JR-106-create-home-page) JR-106: Create the home page
+|/  
+*   566f23c Merge branch 'bugfix/JR-104-fix-words-in-second-file'
+|\  
+| * 389cb29 JR-104: Modify first line of second file
+* | 09030c8 JR-105: Modify first line of second file in a different way
+|/  
+* 5c81976 JR-103: Refactor and clean up redundant code
+* fbcec94 JR-102: Set up the second and third file
+* 79bc9aa Delete README.md
+* abaec54 Delete Shopping List.js
+* 137b777 Delete Project6 - Scroll Animation directory
+* 77ed4dd Delete Project2 - Progress Steps directory
+* a3ba2a3 Delete 50 Projects in 20 days directory
+* 70fabb4 JR-101: Set up the first file
+* 51a0812 Add Project11 - Event KeyCodes
+* cfbc5e9 Added Project7 - Split Landing Page
+*   2525ec4 Conclude merge
+|\  
+| * 823f611 Update README.md
+* | 52b7ba9 Initial commit for Project 6
+|/  
+* 8ad83f3 Add initial shopping List Javascript file
+* ac3b240 Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+
