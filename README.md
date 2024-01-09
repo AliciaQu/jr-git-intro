@@ -18,9 +18,9 @@ message “JR-105: Modify first line of second file in a different way”.
 conflicts to accept changes in the bugfix branch.
 10. Delete the bugfix branch and push the new commits in master to GitHub.
 11. Check out branch feature/JR-106-create-home-page, add a new file ‘index.html’ with
-<h1>Home Page</h1> in the code. Commit the change with message “JR-106:
+<h1></h1> in the code. Commit the change with message “JR-106:
 Create the home page”
-12. Check out master branch, add a new file ‘index.html’ with <h2>About</h2> in the
+12. Check out master branch, add a new file ‘index.html’ with <h2></h2> in the
 code. Commit the change with message “JR-107: Create the about section”. Note this
 is to simulate changes made by your colleague. In your work, it’s rare that you will
 ever need to work in the master branch. Push the new commit to GitHub.
